@@ -44,7 +44,7 @@ ul>li{
   position: relative;
   height: 100vh;
   min-height: 650px;
-  background: url('/img/bg/hero.jpg') center center /cover no-repeat;
+  background: url('./img/bg/hero.jpg') center center /cover no-repeat;
   margin-bottom: 130px;
 }
 .header{
@@ -175,7 +175,7 @@ padding: 5px 10px;
 }
 
 .fade-slider__item {
-    background: url('/img/content/hero/slider_pic_1.png') center center / contain no-repeat;
+    background: url('./img/content/hero/slider_pic_1.png') center center / contain no-repeat;
     height: 100%;
     position: absolute;
     top: 0;
